@@ -11,7 +11,6 @@ body {
     min-height: 100vh;
 }
 
-/* ==================== SIDEBAR ==================== */
 .sidebar {
     position: fixed;
     top: 0;
@@ -138,7 +137,6 @@ body {
     line-height: 1.45;
 }
 
-/* ==================== MAIN WRAPPER ==================== */
 .main-wrapper {
     margin-left: 245px;
     min-height: 100vh;
@@ -148,7 +146,6 @@ body {
     justify-content: space-between;
 }
 
-/* Top Bar & Breadcrumb */
 .top-bar {
     display: flex;
     justify-content: flex-end;
@@ -212,7 +209,6 @@ body {
     border-radius: 50%;
 }
 
-/* ==================== BUTTONS ==================== */
 .btn-primary {
     display: inline-flex;
     align-items: center;
@@ -256,7 +252,6 @@ body {
     background-color: rgba(255, 255, 255, 0.45);
 }
 
-/* ==================== BERANDA / HERO ==================== */
 .hero-section {
     display: flex;
     align-items: center;
@@ -395,7 +390,6 @@ body {
     color: #475569;
 }
 
-/* ==================== HALAMAN PROFIL (SESUAI GAMBAR) ==================== */
 .profile-hero {
     display: flex;
     align-items: center;
@@ -550,7 +544,6 @@ body {
     flex-wrap: wrap;
 }
 
-/* Bagian Bawah Profil: My Journey + 4 Highlights */
 .profile-bottom {
     display: flex;
     align-items: flex-start;
@@ -617,7 +610,6 @@ body {
     color: #475569;
 }
 
-/* ==================== HALAMAN PENDIDIKAN, KEAHLIAN, KONTAK ==================== */
 .page-section {
     padding: 20px 0 40px;
 }
@@ -797,7 +789,6 @@ body {
     border-color: #1d4ed8;
 }
 
-/* ==================== RESPONSIVE ==================== */
 @media (max-width: 1024px) {
 
     .hero-section,
